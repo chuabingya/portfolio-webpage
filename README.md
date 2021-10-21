@@ -7,6 +7,10 @@ The first release of the code will then be done over visual studio code to check
 ## Landing Page
 ![Untitled](https://user-images.githubusercontent.com/74776084/137858877-81451cb4-9110-4031-96f3-1d5a561186e4.jpg)
 
+The background is with an astronaut to represent my interest in STEM and personally, I like astronaut themes.
+In this page, my full name, Chua Bing Ya, was presented to allow readers to know how to format my fullname
+In the next box, bing ya was mentioned instead of my full name to allow reader to know what is my name.
+
 ## About Me
 
 As of now, this page is plain with the text:

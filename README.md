@@ -11,6 +11,8 @@ The background is with an astronaut to represent my interest in STEM and persona
 In this page, my full name, Chua Bing Ya, was presented to allow readers to know how to format my fullname
 In the next box, bing ya was mentioned instead of my full name to allow reader to know what is my name.
 
+A navigation bar was added to the code to allow easier navigation
+
 ## About Me
 
 As of now, this page is plain with the text:

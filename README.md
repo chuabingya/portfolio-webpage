@@ -16,7 +16,7 @@ A navigation bar was added to the code to allow easier navigation
 ## About Me
 
 As of now, this page is plain with the text:
-Hi! I am Bing Ya. I am a Year 1 Semester 1 student of the University of Wollongong at the SIM GE campus pursuing the bachelors of computer science. I am currently taking on a double majors, digital systems security and cyber security! 
+Hi! I am Bing Ya. I am a Year 1 Semester 1 student of the University of Wollongong at the SIM GE campus pursuing the bachelors of computer science. I am currently taking on a double major, digital systems security and cyber security! 
 
 This section was further expanded because I personally feel like some readers may want information from a specific area rather than a bird eye view (My journey)
 

@@ -1,8 +1,8 @@
 # Portfolio-webpage
 
 The layout of this webpage is planned on Figma. 
-The coding process was done over codepen.io to be able to constantly check out how the website looks while coding. 
-The first release of the code will then be done over visual studio code to check through errors and check if the code works.
+The coding process was done over codepen.io to be able to constantly check out how the website looks while coding. https://codepen.io/chuabingya/pen/PobbmqZ 
+The first release of the code will then be done over visual studio code to check through errors and check if the code works.(codes are uploaded here)
 
 ## Landing Page
 ![Untitled](https://user-images.githubusercontent.com/74776084/137858877-81451cb4-9110-4031-96f3-1d5a561186e4.jpg)

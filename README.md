@@ -16,6 +16,7 @@ In the next box, bing ya was mentioned instead of my full name to allow reader t
 As of now, this page is plain with the text:
 Hi! I am Bing Ya. I am a Year 1 Semester 1 student of the University of Wollongong at the SIM GE campus pursuing the bachelors of computer science. I am currently taking on a double majors, digital systems security and cyber security! 
 
+This section was further expanded because I personally feel like some readers may want information from a specific area rather than a bird eye view (My journey)
 ## My Journey
 In this section of the portfolio webpage, it aims to introduce what I have done in a timeline format
 ![Untitled](https://user-images.githubusercontent.com/74776084/137837357-c4e9786e-74d8-41b4-ba76-a2eb0a2ade0a.jpg)

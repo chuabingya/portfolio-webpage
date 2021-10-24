@@ -1,0 +1,82 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    background-image: linear-gradient(to right, yellow, green);
+  
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+  
+}
+
+.navbar a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+ 
+
+#landing{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/675/643/715/astronaut-space-simple-background-popsicle-wallpaper-preview.jpg);
+  background-size: auto; /*facing some errors loading whole image out as background*/
+  background-position: top center;
+  position: relative;
+  z-index: 1; /* this is for potential download button of resume to be build to show*/
+}
+
+#landing::after {
+  content:'';
+  opacity: .7;
+  z-index: -1; /* this is for potential download button of resume to be build to show*/
+}
+
+.name-block {
+  border: 3px solid #73AD21;
+  height: 100px;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  background-color:#0F4652;
+  margin-bottom: 150px;
+  color: #DDB218;
+
+  
+}
+.text-block {
+  border: 3px solid #73AD21;
+  height: 100px;
+  width: 902px;
+  text-align: center;
+  margin: auto;
+  background-color:#0F4652;
+  color: #DDB218;
+
+}
+ 
+.navbar2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    background-image: linear-gradient(to right, red, green);
+}
+
+.navbar2 ul{
+    display: flex;
+    list-style: none;
+}
+
+.navbar2 a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
